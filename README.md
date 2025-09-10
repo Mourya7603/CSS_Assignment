@@ -10,18 +10,6 @@ A modern, responsive blog template built with HTML and CSS, featuring a clean de
 
 ---
 
-## Features
-
-- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop
-- **Modern UI**: Clean, minimalist design with attention to typography and spacing
-- **Social Integration**: Social media icons in the navigation bar
-- **Dark Mode Toggle**: Moon icon for potential dark mode implementation
-- **Featured Content**: Prominent featured post section
-- **Blog Cards**: Grid layout for blog posts with hover effects
-- **Author Information**: Author avatars and metadata for each post
-  
----
-
 ## Technologies Used
 
 - HTML5
